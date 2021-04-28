@@ -4,7 +4,7 @@ Kelly Zhong, DH 110
 <br>
 
 ## Purpose of UX Storytelling
-ux storytelling is important bc: 
+UX Storytelling is important because:
 - it is a way with which we are better able to think from our user's perspectives, to really think about what pain points they might have or what features they might want
 - it creates a sense of reality. usually, when designing, it fefels like we're designing for an invisible person bc we're not actually interacting w real life people. however, w ux storytelling, we're able to put a face and a name, although imaginary, to our work, which makes our work feel more real
 - it allows the whole team, not just designers, to recenter and get on the same page for what product is being made.
@@ -22,9 +22,13 @@ From the research I conducted and insights that I collected, I narrowed down on 
 ## Personas
 <br>
 **Persona #1: Greg** 
+<img src="./Greg Persona.png" width="90%">
+<img src="./Greg Empathy.png" width="90%">
 <br>
 
-**Persona #2: Name** 
+**Persona #2: Lily** 
+<img src="./Lily Persona.png" width="90%">
+<img src="./Lily Empathy.png" width="90%">
 <br>
 
 <br>
@@ -36,9 +40,11 @@ Greg is a 60 year old senior that is retired, so he has a lot of spare time on h
 
 Greg opens up CNN.com on his iPad after getting his cup of tea. He is immediately overwhelmed with all the text and images, and is unsure of where to look first. However, after looking closer, he notices the subtitle "Top News". A list of news articles follows closely underneath. Pleased, he clicks on one of the articles and reads through it. After he is done, he presses the back arrow to navigate back to the homepage. Exploring the page further, 
 **Journey Map: Greg**
+<img src="./Greg Journey.png" width="90%">
 
-**Scenario #2: Name** 
+**Scenario #2: Lily** 
 <br>
-**Journey Map: Name**
+**Journey Map: Lily**
+<img src="./Lily Journey.png" width="90%">
 <br>
 <br>
