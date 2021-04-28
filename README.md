@@ -22,12 +22,14 @@ From the research I conducted and insights that I collected, I narrowed down on 
 ## Personas
 **Persona #1: Greg** 
 <img src="./Greg Persona.png" width="90%">
+<br>
 **Empathy Map #1: Greg** 
 <img src="./Greg Empathy.png" width="90%">
 <br>
 
 **Persona #2: Lily** 
 <img src="./Lily Persona.png" width="90%">
+<br>
 **Empathy Map #2: Lily** 
 <img src="./Lily Empathy.png" width="90%">
 <br>
