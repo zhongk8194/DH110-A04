@@ -6,7 +6,7 @@ Kelly Zhong, DH 110
 ## Purpose of UX Storytelling
 UX Storytelling is important because:
 <br>
-• It is a way with which we are better able to think from our user's perspectives; to really think about what pain points they might have or what features they might want.
+• It is a way with which we are better able to think from our user's perspectives, to really think about what pain points they might have or what features they might want.
 <br>
 • It creates a sense of reality. Usually, when designing, it feels like we're designing for an invisible person because we're not actually interacting with real life people. However, with UX storytelling, we're able to put a face and a name, although imaginary, to our work, which makes it more real.
 <br>
